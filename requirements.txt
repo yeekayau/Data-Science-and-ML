@@ -1,7 +1,7 @@
 pandas
 numpy
 plotly.express
-plotly.graph_objects
+plotly
 pydeck
 seaborn
 streamlit == 0.69.0
