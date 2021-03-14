@@ -4,4 +4,5 @@ plotly.express
 plotly
 pydeck
 seaborn
+sklearn
 streamlit == 0.69.0
