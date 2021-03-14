@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly.express
+plotly.graph_objects
+pydeck
+seaborn
+streamlit == 0.69.0
